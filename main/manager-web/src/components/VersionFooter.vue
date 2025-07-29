@@ -1,5 +1,5 @@
 <template>
-  <div class="copyright">
+  <!--div class="copyright">
     <div class="footer-content">
       <span>{{ year }} {{ name }} {{ version }}</span>
       <template v-if="beianGaNum !== 'null'">
@@ -19,7 +19,7 @@
         </a>
       </template>
     </div>
-  </div>
+  </div-->
 </template>
 
 <script>
